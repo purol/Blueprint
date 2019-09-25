@@ -3,7 +3,7 @@ Blueprint is the game which I made first. I learned how to employ physics on pro
 
 How to use it
 -------------
-Build the code or just run Blueprint\blueprint\blueprint.exe
+Build the code or just run blueprint\blueprint.exe
 
 Steam link
 -------------
