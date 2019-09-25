@@ -1,0 +1,874 @@
+﻿  main.cpp
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(356): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(706): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(828): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(830): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(1505): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(1573): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(1577): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(1581): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(1587): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(1591): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(1595): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(1601): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(1605): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(1609): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2003): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2010): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2017): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2024): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2031): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2038): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2196): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2197): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2198): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2201): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2201): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2202): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2202): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2203): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2203): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2206): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2207): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2208): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2237): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2238): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2239): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2240): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2241): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2242): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2245): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2246): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2247): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2248): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2249): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2250): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2253): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2253): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2254): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2254): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2255): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2255): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2256): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2256): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2257): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2257): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2258): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2258): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2261): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2261): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2265): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2267): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2276): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2276): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2279): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2282): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2282): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2300): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2319): warning C4244: '초기화 중': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2362): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2364): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2366): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2369): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2378): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2383): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2385): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2407): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2560): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2573): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2579): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2585): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2588): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2600): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2603): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2971): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2972): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2973): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2976): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2977): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2978): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2981): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2981): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2982): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2982): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2983): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2983): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2986): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2986): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2989): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2989): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2992): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2995): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2995): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3089): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3266): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4066): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4076): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4715): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4719): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4720): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4724): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4725): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4729): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4730): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4734): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4735): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4739): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4778): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4820): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4822): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4826): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5242): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5243): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5244): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5250): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5251): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5252): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5258): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5259): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5260): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5275): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5287): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5287): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5290): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5291): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5292): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5293): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5293): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5296): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5296): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5297): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5297): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5298): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5298): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5299): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5299): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5302): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5303): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5304): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5305): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5334): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5335): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5336): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5337): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5338): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5339): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5342): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5343): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5344): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5345): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5346): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5347): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5350): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5350): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5351): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5351): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5352): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5352): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5353): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5353): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5354): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5354): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5355): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5355): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5358): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5358): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5362): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5364): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5373): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5373): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5376): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5379): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5379): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5391): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5415): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5445): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5717): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5785): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5789): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5793): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5799): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5803): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5807): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5813): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5817): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5821): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6210): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6217): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6224): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6231): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6238): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6245): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6403): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6404): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6405): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6408): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6408): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6409): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6409): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6410): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6410): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6413): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6414): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6415): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6444): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6445): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6446): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6447): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6448): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6449): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6452): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6453): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6454): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6455): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6456): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6457): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6460): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6460): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6461): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6461): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6462): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6462): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6463): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6463): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6464): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6464): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6465): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6465): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6468): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6468): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6472): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6474): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6483): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6483): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6486): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6489): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6489): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6507): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6526): warning C4244: '초기화 중': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6569): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6571): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6573): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6576): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6585): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6590): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6592): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6597): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6750): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6771): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6777): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6780): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6792): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(6795): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7149): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7150): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7151): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7154): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7155): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7156): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7159): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7159): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7160): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7160): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7161): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7161): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7164): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7164): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7167): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7167): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7170): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7173): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7173): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7274): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7286): warning C4244: '=': 'Uint64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(366): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(372): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(377): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(409): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(420): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(873): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(1512): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(2576): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3011): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3014): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3025): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3026): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3035): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3044): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3045): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3054): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3055): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3197): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3212): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3227): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3770): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3779): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3788): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3797): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3806): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3828): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3837): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3847): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3857): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3869): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3878): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3887): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3896): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3905): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3927): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3936): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3946): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3956): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3968): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3977): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3986): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(3995): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4004): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4026): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4035): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4045): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4055): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4081): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4095): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4109): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4492): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 'localtime' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4502): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4506): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4510): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5068): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5082): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5093): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5104): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5115): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5126): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5144): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5157): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5169): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5179): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5190): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5201): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5212): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5220): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5228): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5395): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5423): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5433): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5599): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5613): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5627): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(5724): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7195): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7198): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7209): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7210): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7219): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(4771): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7412): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7413): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7414): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7415): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7419): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7420): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7421): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7422): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7426): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7427): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7428): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7429): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7433): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7434): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7435): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7436): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7440): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7441): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7442): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7443): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7447): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7448): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7449): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7450): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7461): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7462): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7463): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7464): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7468): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7470): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7471): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7586): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7547): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7546): warning C4101: 'contact_num' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7610): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7628): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7637): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7713): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7714): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7715): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7720): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7722): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7739): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7747): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7748): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7749): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7750): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7757): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7759): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7768): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7769): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7771): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7772): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7782): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7783): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7785): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7786): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7797): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7798): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7799): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7800): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7801): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7812): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7822): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7823): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7824): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7825): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7826): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7827): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7828): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7829): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7830): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7831): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7832): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7845): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7846): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7847): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7848): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7849): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7850): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7851): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7852): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7854): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7855): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7871): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7872): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7873): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7874): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7875): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7876): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7884): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7886): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7887): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7888): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7900): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7901): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7902): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7903): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7904): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7911): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7912): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7914): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7915): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7925): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7926): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7927): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7928): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7929): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7930): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7939): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7940): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7941): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7942): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7943): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7954): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7955): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7956): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7957): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7958): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7966): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7968): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7969): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7979): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7980): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7981): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7982): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7983): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7992): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7993): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(7646): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8064): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8084): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8085): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8086): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8087): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8174): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8177): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8217): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8220): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8260): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8263): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8290): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8291): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8292): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8296): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8298): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8300): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8301): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8304): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8337): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8340): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8343): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8368): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8369): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8370): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8371): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8376): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8378): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8380): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8381): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8384): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8411): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8412): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8413): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8414): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8419): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8421): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8423): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8424): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8427): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8454): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8455): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8457): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8458): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8464): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8465): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8467): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8468): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8470): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8471): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8500): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8501): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8502): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8503): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8504): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8512): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8514): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8515): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8518): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8540): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8541): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8542): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8543): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8544): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8545): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8546): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8547): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8548): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8549): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8550): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8554): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8555): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8556): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8557): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8558): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8559): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8560): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8561): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8563): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8564): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8566): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8567): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8570): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8585): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8586): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8587): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8588): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8589): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8590): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8594): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8596): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8597): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8598): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8605): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8620): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8621): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8622): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8623): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8624): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8628): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8629): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8631): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8632): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8638): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8653): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8654): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8655): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8656): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8657): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8658): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8663): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8664): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8665): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8666): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8667): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8688): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8689): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8690): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8691): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8692): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8697): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8699): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8700): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8724): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8725): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8726): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8727): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8728): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8734): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8735): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8738): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8739): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8742): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8777): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8780): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8897): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8898): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8899): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8904): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8906): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8923): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8931): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8932): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8933): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8934): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8941): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8943): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8952): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8953): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8955): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8956): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8966): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8967): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8969): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8970): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8981): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8982): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8983): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8984): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8985): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8996): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9006): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9007): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9008): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9009): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9010): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9011): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9012): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9013): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9014): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9015): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9016): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9029): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9030): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9031): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9032): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9033): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9034): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9035): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9036): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9038): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9039): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9055): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9056): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9057): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9058): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9059): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9060): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9068): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9070): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9071): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9072): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9086): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9087): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9088): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9089): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9090): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9097): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9098): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9100): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9101): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9126): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9137): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9138): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9139): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9140): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9141): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9142): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9151): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9152): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9153): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9154): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9155): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9181): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9190): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9191): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9192): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9193): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9194): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9202): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9204): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9205): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9215): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9216): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9217): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9218): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9219): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9228): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9229): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8825): warning C4101: 'tempt' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(8829): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9269): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9390): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9450): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9459): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9460): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9461): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9462): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9463): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9465): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9496): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9498): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9499): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9500): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9603): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9632): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9633): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9641): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9655): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9656): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9664): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9672): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9673): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9679): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9695): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9696): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9697): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9698): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9713): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9721): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9722): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9736): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9737): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9743): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9744): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9759): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9760): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9761): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9789): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9790): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9810): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9833): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9878): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9879): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9880): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9911): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9934): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9935): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9950): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9951): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10156): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10311): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10322): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10367): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10368): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10398): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10399): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10485): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(9542): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10601): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10603): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10604): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10605): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\github\ann\blueprint\blueprint\main.cpp(10606): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     C:\Users\user\Desktop\github\ANN\Blueprint\Debug\blueprint.lib 라이브러리 및 C:\Users\user\Desktop\github\ANN\Blueprint\Debug\blueprint.exp 개체를 생성하고 있습니다.
+  blueprint.vcxproj -> C:\Users\user\Desktop\github\ANN\Blueprint\Debug\blueprint.exe
+  blueprint.vcxproj -> C:\Users\user\Desktop\github\ANN\Blueprint\Debug\blueprint.pdb (Full PDB)
