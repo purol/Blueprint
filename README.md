@@ -24,3 +24,10 @@ Reference
 https://gamedevelopment.tutsplus.com/tutorials/how-to-create-a-custom-2d-physics-engine-the-basics-and-impulse-resolution--gamedev-6331  
 http://box2d.org/downloads/  
 http://www.allenchou.net/game-physics-series/
+
+Trial and errors when I made 2D physics engine
+-------------
+![Alt text](/screenshot/a2.gif "1")
+![Alt text](/screenshot/a3.gif "2")
+![Alt text](/screenshot/a4.gif "3")
+![Alt text](/screenshot/a5.gif "4")
