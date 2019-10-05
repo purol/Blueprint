@@ -5,6 +5,10 @@ How to use it
 -------------
 Build the code or just run blueprint\blueprint.exe
 
+Developement period
+-------------
+About 1 year (June, 2017 ~ June, 2018)
+
 Game gif file
 -------------
 ![Alt text](/screenshot/game3.gif "game3")
