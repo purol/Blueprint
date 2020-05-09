@@ -3,6 +3,8 @@ Blueprint is the game which I made first. I learned how to employ physics on pro
 
 How to use it
 -------------
+> If you do not have Visual Studio, then you need do install Visual C++ Redistributable. Here is the link (https://www.microsoft.com/en-pk/download/details.aspx?id=48145)
+
 Build the code or just run blueprint\blueprint.exe
 
 Developement period
