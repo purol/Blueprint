@@ -1,9 +1,9 @@
 # Blueprint
-Blueprint is the game which I made first. I learned how to employ physics on programming; I made 2D physics engine myself. Of course, I can use other physics engine library like 2D box. However, I wanted to make with myself. I published this game on Steam, which is a video game digital distribution platform.
+Blueprint is the game that I made first. I learned how to employ physics on programming; I made 2D physics engine myself. Of course, I can use other physics engine library like 2D box. However, I wanted to make with myself. I published this game on Steam, which is a video game digital distribution platform.
 
 How to use it
 -------------
-> If you do not have Visual Studio, then you need do install Visual C++ Redistributable. Here is the link (https://www.microsoft.com/en-pk/download/details.aspx?id=48145)
+> If you do not have Visual Studio, then you need to install Visual C++ Redistributable. Here is the link (https://www.microsoft.com/en-pk/download/details.aspx?id=48145)
 
 Build the code or just run blueprint\blueprint.exe
 
